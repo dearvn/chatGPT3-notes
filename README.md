@@ -1,6 +1,8 @@
 # chatGPT3-notes
 Some notes about coding chatGPT3
 
+![Alt text](https://github.com/dearvn/chatGPT3-notes/raw/main/ad.png?raw=true "Ad")
+
 **a string to input in chatGPT make sense, ex:**
 
 ```
