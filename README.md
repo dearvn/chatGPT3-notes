@@ -1,7 +1,7 @@
 # chatGPT3-notes
 Some notes about coding chatGPT3
 
-**a string to input in chatGPT make sense, ex:
+**a string to input in chatGPT make sense, ex:**
 
 ```
 prompt = 'College funding solutions';
@@ -10,13 +10,13 @@ $tone_text = 'Writing tone: cheerful';
 $prompt  .= '. ' . $style_text . ', ' . $tone_text . '.';
 ```
 
-**echo the prompt:
+**echo the prompt:**
 
 ```
 College funding solutions. research, Writing tone: cheerful.
 ```
 
-**with style and tone can get from 2 functions below
+**with style and tone can get from 2 functions below**
 
 ```
 
